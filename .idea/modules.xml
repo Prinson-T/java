@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arithmetic/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic/Arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java demo/Java demo.iml" filepath="$PROJECT_DIR$/Java demo/Java demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ternary/Ternary.iml" filepath="$PROJECT_DIR$/Ternary/Ternary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment/assignment.iml" filepath="$PROJECT_DIR$/assignment/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitwise/bitwise.iml" filepath="$PROJECT_DIR$/bitwise/bitwise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casting/casting.iml" filepath="$PROJECT_DIR$/casting/casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fihon/fihon.iml" filepath="$PROJECT_DIR$/fihon/fihon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if/if.iml" filepath="$PROJECT_DIR$/if/if.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifelseif/ifelseif.iml" filepath="$PROJECT_DIR$/ifelseif/ifelseif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javanarrow/javanarrow.iml" filepath="$PROJECT_DIR$/javanarrow/javanarrow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaproject/javaproject.iml" filepath="$PROJECT_DIR$/javaproject/javaproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logical/logical.iml" filepath="$PROJECT_DIR$/logical/logical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/realation/realation.iml" filepath="$PROJECT_DIR$/realation/realation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiftop/shiftop.iml" filepath="$PROJECT_DIR$/shiftop/shiftop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
